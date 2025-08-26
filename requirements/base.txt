@@ -1,2 +1,2 @@
-Django>=3.1,<4.2
+Django>=3.1,<5.3
 django-modeltrans<0.8
